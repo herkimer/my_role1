@@ -60,4 +60,4 @@ dependencies:
   - src: https://github.com/herkimer/my_role2.git
     scm: git
     version: master
-    name: role2  
+    name: my_role2 
