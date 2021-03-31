@@ -1,4 +1,4 @@
 ---
 # tasks file for my_role1
 name: "this is running ping"
-  ping:
+ping:
